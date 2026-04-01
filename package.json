@@ -13,7 +13,9 @@
   },
   "files": [
     "dist",
-    "bin"
+    "bin",
+    "README.md",
+    "LICENSE"
   ],
   "keywords": [
     "cli",
