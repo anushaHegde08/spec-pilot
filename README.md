@@ -36,13 +36,13 @@ tests      -> output/user-login.spec.ts
 ## Installation
 
 ```bash
-npm install -g spec-pilot
+npm install -g @anusha-hegde-08/spec-pilot
 ```
 
 Or use it without installing:
 
 ```bash
-npx spec-pilot generate --spec your-feature.md
+npx @anusha-hegde-08/spec-pilot generate --spec your-feature.md
 ```
 
 ## Setup
