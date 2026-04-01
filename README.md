@@ -22,7 +22,7 @@ You write this (`login.md`):
 You run this:
 
 ```bash
-npx spec-pilot generate --spec login.md
+npx @anusha-hegde-08/spec-pilot generate --spec login.md
 ```
 
 You get this:
