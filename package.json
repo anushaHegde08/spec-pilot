@@ -1,6 +1,6 @@
 {
   "name": "@anusha-hegde-08/spec-pilot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A CLI tool that converts plain English feature specs into production-ready TypeScript code and tests using the OpenAI API",
   "type": "module",
   "bin": {
